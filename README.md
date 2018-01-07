@@ -42,7 +42,7 @@
 - Can run on top of multiple backends, including TensorFlow, Theano etc.
 
 ## 2. Tutorial: Introduction to Keras
-...
+1. Sign up & sign in to IBM Watson Data Platform(https://dataplatform.ibm.com)
 
 ## 3. Tutorial: Detect handwritten digits with Keras
 ...
