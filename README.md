@@ -42,8 +42,29 @@
 - Can run on top of multiple backends, including TensorFlow, Theano etc.
 
 ## 2. Tutorial: Introduction to Keras
-1. Sign up & sign in to IBM Watson Data Platform(https://dataplatform.ibm.com)
+1. Sign up (if not already) & sign in to IBM Watson Data Platform: https://dataplatform.ibm.com
+2. Click "New project"
+3. Enter project name "Data Science" and leave other settings to defaults. Click "Create"
+4. Go to "Assets" tab
+5. On the "Notebooks" section, click "New notebook"
+6. Select "From URL", type name "Intro to Keras" and paste the following Notebook URL:
+https://github.com/jruponen/ann-with-wdp/blob/master/Introduction%20to%20Neural%20Networks%20with%20Keras.ipynb
+7. Click "Create Notebook" and in a moment you should now have the "Hello World to Keras" Notebook open.
+
+Follow the instructions on the Notebook to proceed.
+**Note:** To clear all results and start from scratch, do the following:
+1. From Notebook top menu, select: Cell > All Output > Clear
+2. Proceed step-by-step through each cell with the "Run" button on the toolbar
 
 ## 3. Tutorial: Detect handwritten digits with Keras
-...
+1. Sign in to IBM Watson Data Platform and go to your project
+2. Go to "Assets" tab
+3. On the "Notebooks" section, click "New notebook"
+4. Select "From URL", type name "Intro to Keras" and paste the following Notebook URL:
+https://github.com/jruponen/ann-with-wdp/blob/master/Detect%20handwritten%20digits%20with%20Keras.ipynb
+5. Click "Create Notebook" and in a moment you should now have the "Building a simple neural network..." Notebook open.
 
+Follow the instructions on the Notebook to proceed.
+**Note:** To clear all results and start from scratch, do the following:
+1. From Notebook top menu, select: Cell > All Output > Clear
+2. Proceed step-by-step through each cell with the "Run" button on the toolbar
